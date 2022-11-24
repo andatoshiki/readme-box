@@ -10,12 +10,12 @@
 ### Installation
 
 ```sh
-$ npm install readme-box
+$ npm install @andatoshiki/readme-box
 ```
 
 ```js
-const { ReadmeBox } = require('readme-box')
-import { ReadmeBox } from 'readme-box'
+const { ReadmeBox } = require('@andatoshiki/readme-box')
+import { ReadmeBox } from '@andatoshiki/readme-box'
 ```
 
 You can quickly update a section of a README:
