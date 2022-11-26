@@ -96,7 +96,7 @@ export class ReadmeBox {
       repo: this.repo,
       content: Buffer.from(opts.content).toString('base64'),
       path: opts.path || 'README.md',
-      message: opts.message || 'Updating the README!',
+      message: opts.message || 'chore(readme): update new feeds into rss',
       sha: opts.sha,
       branch: opts.branch || 'master'
     })
