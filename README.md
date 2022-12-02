@@ -1,9 +1,7 @@
 # README-Box
 > Lil' helper for replacing a section of the contents of a README.
 
-<a href="https://npmjs.com/package/@andatoshiki/readme-box"><img src="https://badgen.net/npm/v/readme-box" alt="NPM"></a> <img alt="CI" src="https://github.com/andatoshiki/readme-box/workflows/CI/badge.svg" /> <a href="https://codecov.io/gh/andatoshiki/readme-box/"><a href="https://codecov.io/gh/andatoshiki/readme-box" > 
- <img src="https://github.com/andatoshiki/readme-box/actions/workflows/ci.yml/badge.svg"/> 
- </a>
+<a href="https://npmjs.com/package/@andatoshiki/readme-box"><img src="https://badgen.net/npm/v/readme-box" alt="NPM"></a> <img alt="CI" src="https://github.com/andatoshiki/readme-box/workflows/CI/badge.svg" /> <a href="https://codecov.io/gh/andatoshiki/readme-box" > <img src="https://codecov.io/gh/andatoshiki/readme-box/branch/master/graph/badge.svg?token=FYjxHd1Z8C"/></a>
 
 ## Usage
 
