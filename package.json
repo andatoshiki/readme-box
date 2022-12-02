@@ -2,7 +2,7 @@
   "name": "@andatoshiki/readme-box",
   "author": "Anda Toshiki <hello@toshiki.dev>",
   "description": "Lil' helper for replacing a section of the contents of a README.",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "license": "MIT",
   "repository": {
     "type": "git",
